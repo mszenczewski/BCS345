@@ -1,0 +1,15 @@
+Movie Studio Report
+-------------------
+Studio: DC
+Movie Count: 3
+
+Movie Statistics
+
+Title                      Mth  Day  Year   Theaters  Gross (mil) Budget (mil)  Net (mil)
+-----                      ---  ---  ----   --------  ----------- ------------  ---------
+Wonder Woman                 5   25  2017       4165        797.1        150.0      647.1
+Man of Steel                 6   14  2013       4207        667.9        225.0      442.9
+Suicide Squad                8    5  2016       4255        745.6        175.0      570.6
+Batman                       7   12  2012       5002        922.8        291.3      631.5
+-----                      ---  ---  ----   --------  ----------- ------------    -------
+Total                                                      3133.4        841.3     2292.1
